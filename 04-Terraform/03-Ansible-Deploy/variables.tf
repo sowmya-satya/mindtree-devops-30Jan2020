@@ -1,5 +1,5 @@
 variable "key_name" {
-  default = "oregon2"
+  default = "sowmi"
 }
 
 variable "pvt_key" {
@@ -11,5 +11,5 @@ variable "us-east-zones" {
 }
 
 variable "sg-id" {
-  default = "sg-0bc022420f33a6852"
+  default = "sg-0133b777cba7f2ae6"
 }
